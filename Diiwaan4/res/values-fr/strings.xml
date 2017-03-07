@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="inf">The download icon on the notifications bar shows that the section is being downloaded. Thank you for your patience! ");</string>
+    <string name="teleplay">Télécharger un lecteur pdf dans Playstore?</string>
+    <string name="nopdf">Pas de lecteur pdf trouvé</string>
+    <string name="imp">Impossible d\'utiliser le stockage externe!</string>
+    <string name="selected">choisi</string>
+    <string name="app_name">Diiwaan4</string>
+    <string name="txtlien">www.daaraykamil.com</string>
+    <string name="app_about">A Propos</string>
+    <string name="str_exit">Fermer</string>
+    <string name="str_ok">OK</string>
+    <string name="app_exit">Fermer</string>
+    <string name="app_exit_message">Voulez-vous fermer l\'application?</string>
+    <string name="str_no">Non</string>
+    <string name="infos">Bienvenue sur www.daaraykamil.com, La Bibliothèque Mouride en Ligne, Maktabatul Muridiyatu : مكتبة المريدية  &#8230; LES KHASSAIDES DE SERIGNE TOUBA EN PDF  &#8230;Qasida Scans, Qasida en Pdf, FREE, GRATIS, GRATUIT</string>
+    <string name="tel">(+221)33 869 07 67</string>
+    <string name="fax">(+221)33 869 07 67</string>
+    <string name="contact">CONTACTS</string>
+    <string name="adr">82, VDN Sacré Coeur III  Dakar/Sénégal\n BP: 15 762 Dakar/Sénégal </string>
+    <string name="jukky1">JUKKY1\n  القسم١</string>
+    <string name="jukky2">JUKKY2\n  القسم٢ </string>
+    <string name="jukky3">JUKKY3\n القسم٣ </string>
+    <string name="jukky4">JUKKY4\n القسم٤ </string>
+    <string name="jukky5">JUKKY5\n القسم٥ </string>
+    <string name="jukky6">JUKKY6\n القسم٦ </string>
+    <string name="part1">PARTIE1 - جزء١ </string>
+    <string name="part2">PARTIE2 - جزء٢ </string>
+    <string name="part3">PARTIE3 - جزء٣ </string>
+    <string name="part4">PARTIE4 - جزء٤ </string>
+    <string name="part5">PARTIE5 - جزء٥ </string>
+    <string name="part6">PARTIE6 - جزء٦ </string>
+    <string name="part7">PARTIE7 - جزء٧ </string>
+    <string name="part8">PARTIE8 - جزء٨ </string>
+    <string name="part9">PARTIE9 - جزء٩ </string>
+    <string name="part10">PARTIE10 - جزء١٠ </string>
+    <string name="part11">PARTIE11 - جزء١١ </string>
+    <string name="no_connection">Merci de vérifier votre connexion internet</string>
+    <string name="tele">Voulez vous télécharger tous les fichiers? Celà peut durer quelques minutes</string>
+    <string name="str_yes">Oui, s\'il vous plait</string>
+    <string name="title">Diiwaanul Fuyodaatir Rabbaaniyyati - ديوان الفيوضات الربانية</string>
+    <string name="aver">Cette application ne pourra pas fonctionner pour vous parce qu’il est impossible d’utiliser le stockage externe!</string>
+    <string name="ess">Merci d’avoir essayé cette application</string>
+    <string name="extractzip">Attendez s’il vous plaît&#8230; Extraction de fichier zip&#8230;</string>
+    <string name="dof">Télécharger échoué!</string>
+    <string name="dopa">Télécharger pause!</string>
+    <string name="dope">Télécharger attente!</string>
+    <string name="dinp">Télécharger en cours!</string>
+    <string name="doc">Télécharger complet! </string>
+    <string name="doin">Télécharger n’est pas en vue!</string>
+    <string name="tdone">Téléchargement effectué!</string>
+    <string name="tcc">Téléchargement en cours cliqué!</string>
+    <string name="ddz">Téléchargement du fichier zip Diwan4&#8230;</string>
+
+</resources>

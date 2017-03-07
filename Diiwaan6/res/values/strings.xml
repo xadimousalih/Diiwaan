@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="inf">L\'icone de télechargement dans la barre des notifications vous montre que l\'oeuvre est entrain d\'être téléchargée. Merci de bien vouloir patienter!</string>
+    <string name="tdone">Download done!</string>
+    <string name="tcc">Download in progress clicked!</string>
+    <string name="ddz">Downloading Diwan6 zip file&#8230;</string>
+    <string name="dof">Download failed!</string>
+    <string name="dopa">Download paused!</string>
+    <string name="dope">Download pending!</string>
+    <string name="dinp">Download in progress!</string>
+    <string name="doc">Download complete!</string>
+    <string name="doin">Download is nowhere in sight</string>
+    <string name="nopdf">No pdf reader found</string>
+    <string name="teleplay">Download a pdf reader on playstore?</string>
+    <string name="extractzip">Please Wait&#8230;Extracting zip file&#8230; </string>
+    <string name="imp">Can not use external storage!</string>
+    <string name="aver">This application will not work for you because it is impossible to use external storage!</string>
+    <string name="ess">Thank you for trying this application</string>
+    <string name="title">Diiwaanul Fuyodaatir Rabbaaniyyati Fi Zikri Wa Choukri Wat Tahadduthi Bin Nihami – ديوان الفيوضات الربانية</string>
+    <string name="selected">Selected</string>
+    <string name="app_name">Diiwaan6</string>
+    <string name="txtlien">www.daaraykamil.com</string>
+    <string name="app_about">About</string>
+    <string name="str_exit">Close</string>
+    <string name="str_ok">OK</string>
+    <string name="app_exit">Close</string>
+    <string name="app_exit_message">Do you want to close the application?</string>
+    <string name="str_no">No, thanks!</string>
+    <string name="str_yes">Yes, please!</string>
+    <string name="infos">Welcome to www.daaraykamil.com , The Online Murid Library, Maktabatul Muridiyatu : مكتبة المريدية  &#8230; LES KHASSAIDES DE SERIGNE TOUBA EN PDF  &#8230;Qasida Scans, Qasida en PDF, FREE, GRATIS, GRATUIT</string>
+    <string name="tel">(+221)33 869 07 67</string>
+    <string name="fax">(+221)33 869 07 67</string>
+    <string name="contact">CONTACTS</string>
+    <string name="adr">82, VDN Sacré Coeur III  Dakar/Sénégal\n BP: 15 762 Dakar/Sénégal </string>
+    <string name="jukky1">JUKKY1\n  القسم١</string>
+    <string name="jukky2">JUKKY2\n  القسم٢ </string>
+    <string name="jukky3">JUKKY3\n القسم٣ </string>
+    <string name="jukky4">JUKKY4\n القسم٤ </string>
+    <string name="jukky5">JUKKY5\n القسم٥ </string>
+    <string name="jukky6">JUKKY6\n القسم٦ </string>
+    <string name="part1">PART1 - جزء١ </string>
+    <string name="part2">PART2 - جزء٢ </string>
+    <string name="part3">PART3 - جزء٣ </string>
+    <string name="part4">PART4 - جزء٤ </string>
+    <string name="part5">PART5 - جزء٥ </string>
+    <string name="part6">PART6 - جزء٦ </string>
+    <string name="part7">PART7 - جزء٧ </string>
+    <string name="part8">PART8 - جزء٨ </string>
+    <string name="part9">PART9 - جزء٩ </string>
+    <string name="part10">PART10 - جزء١٠ </string>
+    <string name="part11">PART11 - جزء١١ </string>
+    <string name="no_connection">Please check your internet connection</string>
+    <string name="tele">Do you want to download all files? It can take several minutes</string>
+
+</resources>

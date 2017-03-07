@@ -1,0 +1,20 @@
+# view AndroidManifest.xml #generated:27
+-keep class sn.tab28.diwanou.quranya2.AnimationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class sn.tab28.diwanou.quranya2.HomeActivity { <init>(...); }
+
+# onClick res/layout/header.xml #generated:50
+-keepclassmembers class * { *** btnFeedbackClick(...); }
+
+# onClick res/layout/header.xml #generated:15
+-keepclassmembers class * { *** btnHomeClick(...); }
+
+# onClick res/layout/main.xml #generated:28
+# onClick res/layout/main.xml #generated:37
+# onClick res/layout/main.xml #generated:53
+# onClick res/layout/main.xml #generated:62
+# onClick res/layout/main.xml #generated:78
+# onClick res/layout/main.xml #generated:87
+-keepclassmembers class * { *** onButtonClicker(...); }
+

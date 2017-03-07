@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/header"
+        android:layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/bg"
+        android:orientation="vertical"
+        android:padding="6dip" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/jukky1"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky1"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/jukky2"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky2"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/jukky3"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky3"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/jukky4"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky4"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/jukky5"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky5"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/jukky6"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky6"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+        </LinearLayout>
+         <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/jukky7"
+                style="@style/HomeButton"
+                android:drawableTop="@drawable/menu"
+                android:onClick="onButtonClicker"
+                android:text="@string/jukky7"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/footer_layout" />
+
+</LinearLayout>
